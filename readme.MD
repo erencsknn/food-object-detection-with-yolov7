@@ -19,5 +19,7 @@ This project aims to recognize food items using the YOLOv7 model. Follow the ste
 3. **Test Images**: Test images to be used are located in the `image` folder. You should specify the path and name of the image file using the `--source` parameter.
 
 ![image][(images_for_readme/image.png)
+
 ![image](images_for_readme/2.png)
+
 ![image](images_for_readme/3.png)
