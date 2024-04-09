@@ -1,5 +1,0 @@
-cmd de yolov7-main dosyasının içine girilir  
-python detect.py --weights best.pt --conf 0.5 --img-size 640 --source test/24.jpg --view-img --no-trace 
-kodu çalıştırılır 
-
-test için imageler image dosyası içersindedir.
